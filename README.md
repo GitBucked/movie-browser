@@ -80,6 +80,9 @@ npm run preview
 Favorites are stored in **localStorage** and managed through `MovieContext.jsx`. This keeps UX instant with no backend. For multi-device sync, add a small backend later (Supabase/Firebase) — optional.
 
 ---
+## Status
+This is **not a template**. Feel free to fork if you really want, but it's shared as-is with no support.
+---
 
 ## 📝 License & Attribution
 - Code: **MIT** — see `LICENSE`.
